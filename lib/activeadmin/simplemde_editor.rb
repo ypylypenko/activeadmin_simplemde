@@ -1,0 +1,1 @@
+require 'activeadmin/simplemde_editor/engine'

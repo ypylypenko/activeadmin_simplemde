@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/activeadmin_simplemde.svg)](https://badge.fury.io/rb/activeadmin_simplemde)
+
 # ActiveadminSimplemde
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/activeadmin_simplemde`. To experiment with that code, run `bin/console` for an interactive prompt.

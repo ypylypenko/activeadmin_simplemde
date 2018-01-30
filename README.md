@@ -1,5 +1,3 @@
-[![Gem Version](https://badge.fury.io/rb/activeadmin_simplemde.svg)](https://badge.fury.io/rb/activeadmin_simplemde)
-
 # Activeadmin SimpleMDE Markdown Editor [![Gem Version](https://badge.fury.io/rb/activeadmin_simplemde.svg)](https://badge.fury.io/rb/activeadmin_simplemde)
 
 An Active Admin plugin to use [simplemde-editor](https://simplemde.com/), a compact and clean Markdown editor.

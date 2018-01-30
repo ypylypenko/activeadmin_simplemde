@@ -31,7 +31,7 @@ Or install it yourself as:
 //= require activeadmin/simplemde/simplemde
 //= require activeadmin/simplemde_editor_input
 ```
-- Use the input with `as: :medium_editor` in Active Admin model conf
+- Use the input with `as: :simplemde_editor` in Active Admin model conf
 
 
 

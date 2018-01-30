@@ -49,7 +49,7 @@ If you use this component just star it. A developer is more motivated to improve
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/activeadmin_simplemde.
+Bug reports and pull requests are welcome on GitHub at https://github.com/YevheniiPylypenko/activeadmin_simplemde.
 
 ## License
 

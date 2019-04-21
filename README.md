@@ -18,12 +18,12 @@ Or install it yourself as:
 
 - Add at the end of your ActiveAdmin styles (_app/assets/stylesheets/active_admin.scss_):
 ```css
-@import 'activeadmin/simplemde';
+@import 'active_admin/simplemde';
 ```
 - Add at the end of your ActiveAdmin javascripts (_app/assets/javascripts/active_admin.js_):
 ```js
-//= require activeadmin/simplemde/simplemde
-//= require activeadmin/simplemde_editor_input
+//= require active_admin/simplemde/simplemde
+//= require active_admin/simplemde_editor_input
 ```
 - Use the input with `as: :simplemde_editor` in Active Admin model conf
 

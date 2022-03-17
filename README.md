@@ -1,6 +1,3 @@
-# Activeadmin SimpleMDE Markdown Editor [![Gem Version](https://badge.fury.io/rb/activeadmin_simplemde.svg)](https://badge.fury.io/rb/activeadmin_simplemde)
-
-
 ## Hi there 👋
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
@@ -13,6 +10,8 @@ By using the code provided in these repositories you agree with the following:
 * [Putin khuylo!](https://en.wikipedia.org/wiki/Putin_khuylo!)
 
 Glory to Ukraine! 🇺🇦
+
+# Activeadmin SimpleMDE Markdown Editor [![Gem Version](https://badge.fury.io/rb/activeadmin_simplemde.svg)](https://badge.fury.io/rb/activeadmin_simplemde)
 
 
 ## Installation
